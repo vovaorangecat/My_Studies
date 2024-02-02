@@ -16,3 +16,7 @@ you can run the site locally using openServer where this build is used:
 + HTTP - Apache_2.4-PHP_7.2-7.4
 + PHP - PHP_7.3
 + MySQL/MariaDB - MySQL -8.0-Win10
+
+**Demonstration of the site on video**
+
+https://github.com/vovaorangecat/my_studias.aaaaa/assets/95964614/25425a7a-6b0e-4b0b-ad23-29ce7f66bf0e

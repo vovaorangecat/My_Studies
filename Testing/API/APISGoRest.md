@@ -2,26 +2,26 @@
 
 create token
 
-![create token](ScreenShoot/createToken.png)
+![create token](ScreenShot/createToken.png)
 
 add the token to postman
 
-![add token](ScreenShoot/inputTokenInPostman.png)
+![add token](ScreenShot/inputTokenInPostman.png)
 
 create user
 
-![create user](ScreenShoot/CreateUser.png)
+![create user](ScreenShot/CreateUser.png)
 
 get user by Id
 
-![Id](ScreenShoot/getUserById.png)
+![Id](ScreenShot/getUserById.png)
 
 update user data - name
-![update user](ScreenShoot/updateName.png)
+![update user](ScreenShot/updateName.png)
 
 Delete this user 
-![delete user](ScreenShoot/DeleteUser.png)
+![delete user](ScreenShot/DeleteUser.png)
 
 check that this user was deleted
 
-![check deleted user](ScreenShoot/checkThatUserWasDeleted.png)
+![check deleted user](ScreenShot/checkThatUserWasDeleted.png)

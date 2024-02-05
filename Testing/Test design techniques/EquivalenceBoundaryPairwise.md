@@ -2,11 +2,11 @@
 
 **Equivalence Partitioning**
     
-![](screenshoot/EquivalencePartitioning.png)
+![](screenshot/EquivalencePartitioning.png)
 
 **Boundary values**
   
-![](screenshoot/BoundaryValues.png)
+![](screenshot/BoundaryValues.png)
 
 **Pairwise Testing**
-![](screenshoot/PairwiseTesting.png)
+![](screenshot/PairwiseTesting.png)

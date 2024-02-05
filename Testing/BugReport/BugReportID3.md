@@ -24,4 +24,4 @@ Type of bug: Usability
 
 Atachment:
 
-![](screenshoot/TestReportID3Photo1.png)
+![](screenshot/TestReportID3Photo1.png)

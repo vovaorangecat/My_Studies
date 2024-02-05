@@ -36,8 +36,8 @@ Atachment:
 
 **No indication of where the error is located**
 
-![](screenshoot/TestReportID4Photo1.png)
+![](screenshot/TestReportID4Photo1.png)
 
 **Invalid data that the website accepts**
 
-![](screenshoot/TestReportID4Photo2.png)
+![](screenshot/TestReportID4Photo2.png)

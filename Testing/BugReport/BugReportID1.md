@@ -27,4 +27,4 @@ Type of bug: Functional
 
 Atachment:
 
-![](screenshoot/TestReportID1Photo1.png)
+![](screenshot/TestReportID1Photo1.png)

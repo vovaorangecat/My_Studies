@@ -1,23 +1,23 @@
 # API Swagger
 
 create user
-![d](ScreenShoot/createUser.jpg)
+![d](ScreenShot/createUser.jpg)
 
 get user by username
-![d](ScreenShoot/get_user_by_Username.jpg)
+![d](ScreenShot/get_user_by_Username.jpg)
 
 Update user
-![d](ScreenShoot/updateUser.jpg)
+![d](ScreenShot/updateUser.jpg)
 
 logs user into the system
-![d](ScreenShoot/logs_user_into_theSystem.jpg)
+![d](ScreenShot/logs_user_into_theSystem.jpg)
 
 log out user
-![d](ScreenShoot/logOutUser.jpg)
+![d](ScreenShot/logOutUser.jpg)
 
 Delete user
-![d](ScreenShoot/deleteUser.jpg)
+![d](ScreenShot/deleteUser.jpg)
 
 check that the request returned 200/404 and get a username using tests
-![d](ScreenShoot/get_a_user_using_tests.jpg)
+![d](ScreenShot/get_a_user_using_tests.jpg)
 

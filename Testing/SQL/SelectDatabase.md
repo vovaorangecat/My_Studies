@@ -1,11 +1,11 @@
 # SelectDatabase
 
-![Select1](screenshoot/SELECTSQL1.png)
+![Select1](screenshot/SELECTSQL1.png)
 
-![Select2](screenshoot/SELECTSQL2.png)
+![Select2](screenshot/SELECTSQL2.png)
 
-![Select3](screenshoot/SELECTSQL3.png)
+![Select3](screenshot/SELECTSQL3.png)
 
-![Select4](screenshoot/SELECTSQL4.png)
+![Select4](screenshot/SELECTSQL4.png)
 
-![Select5](screenshoot/SELECTSQL5.png)
+![Select5](screenshot/SELECTSQL5.png)

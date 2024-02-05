@@ -24,6 +24,6 @@ Type of bug: Localization
 
 Atachment:
 
-![](screenshoot/TestReportID5Photo1.png)
+![](screenshot/TestReportID5Photo1.png)
 
-![](screenshoot/TestReportID5Photo2.png)
+![](screenshot/TestReportID5Photo2.png)

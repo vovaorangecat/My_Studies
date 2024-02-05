@@ -2,12 +2,12 @@
 
 **Decision Table**  
 Product delivery
-![](screenshoot/DecisionTable.png)
+![](screenshot/DecisionTable.png)
 
 **State Transition Diagram**  
 Feedback diagram for a product
-![](screenshoot/StateTransitionDiagram.png)
+![](screenshot/StateTransitionDiagram.png)
 
 **Use Case Diagram**  
 capabilities that a normal user and an admin have
-![](screenshoot/UseCaseDiagram.png)
+![](screenshot/UseCaseDiagram.png)
